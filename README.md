@@ -40,16 +40,16 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnYeonghoo&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dksdudgn00&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 <div align=center><h1>Git Status</h1></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnYeonghoo&langs_count=8&hide=html,jupyter%20notebook,kotlin,css,java,cmake,c%20notebook&theme=cobalt)](https://github.com/dksdudgn00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksdudgn00&langs_count=8&hide=html,jupyter%20notebook,kotlin,css,java,cmake,c%20notebook&theme=cobalt)](https://github.com/dksdudgn00/github-readme-stats)
 
 
 
     
-![AhnYeonghoo GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnYeonghoo&count_private=true&theme=cobalt)
+![AnYeonghoo GitHub stats](https://github-readme-stats.vercel.app/api?username=AnYeonghoo&count_private=true&theme=cobalt)
     
 <div align=center><h1>Algorithm</h1></div>
   
