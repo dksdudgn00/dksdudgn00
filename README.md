@@ -44,7 +44,7 @@
   
 <div align=center><h1>Git Status</h1></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksdudgn00&langs_count=8&hide=html,jupyter%20notebook,kotlin,css,java,cmake,c%20notebook&theme=cobalt)](https://github.com/dksdudgn00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksdudgn00&langs_count=8&hide=html,jupyter%20notebook,kotlin,css,java,cmake,c%20notebook&theme=cobalt)](https://github.com/ryo-ma/github-readme-stats)
 
 
 
