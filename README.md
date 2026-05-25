@@ -1,23 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=300&section=header&text=YeongHoo%20Ahn&fontSize=60&fontColor=d6ace6&rotate=-30&stroke=00FF00&strokeWidth=3&animation=blinking&desc=hello)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=300&section=header&text=YeongHoo%20An&fontSize=60&fontColor=d6ace6&rotate=-30&stroke=00FF00&strokeWidth=3&animation=blinking&desc=hello)
 
 
+# 👋 Hi, I'm [Your Name]
 
-``` c#
-using System;
+🎓 M.S. Student in Robotics Labs — Chungbuk National University  
+🔬 Research Interests: Machine Vision · Anomaly Detection · Autonomous Driving  
+📚 Currently Studying: OpenCV · Deep Learning · C++ · Python  
 
-namespace Self
-{
-  public class Self
-  {
-    public static void Main(string[] args)
-    {
-      Console.WriteLine($"I work as a developer of software that detects secondary battery defects," +
-       "and I am working on a fourth-year university course at the same time.");
-    }
-  }
-}
-``` 
-
+---
 
 
 
@@ -26,10 +16,9 @@ namespace Self
 
 <hr />
  
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>🧰 Tech Stack</h1></div>
 
 <div align=center> 
-  
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     
